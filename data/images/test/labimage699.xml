@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New data set</folder>
+	<filename>labimage699.jpg</filename>
+	<path>D:\FYP\New data set\labimage699.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Majid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>613</xmin>
+			<ymin>927</ymin>
+			<xmax>1122</xmax>
+			<ymax>1467</ymax>
+		</bndbox>
+	</object>
+</annotation>

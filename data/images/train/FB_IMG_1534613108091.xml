@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New data set</folder>
+	<filename>FB_IMG_1534613108091.jpg</filename>
+	<path>D:\FYP\New data set\FB_IMG_1534613108091.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Majid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>193</ymin>
+			<xmax>428</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safdar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>296</ymin>
+			<xmax>94</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
