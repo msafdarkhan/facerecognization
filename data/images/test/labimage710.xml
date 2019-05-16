@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New data set</folder>
+	<folder>test</folder>
 	<filename>labimage710.jpg</filename>
-	<path>D:\FYP\New data set\labimage710.jpg</path>
+	<path>F:\Blind Vision Shirt\Face Recognization Training\object_detection_demo-master\data\images\test\labimage710.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Majid</name>
+		<name>majid</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1195</xmin>
-			<ymin>639</ymin>
-			<xmax>1821</xmax>
-			<ymax>1427</ymax>
+			<xmin>1168</xmin>
+			<ymin>654</ymin>
+			<xmax>1871</xmax>
+			<ymax>1357</ymax>
 		</bndbox>
 	</object>
 </annotation>

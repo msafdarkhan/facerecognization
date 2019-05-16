@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New data set</folder>
+	<folder>train</folder>
 	<filename>IMG20181104155208.jpg</filename>
-	<path>D:\FYP\New data set\IMG20181104155208.jpg</path>
+	<path>F:\Blind Vision Shirt\Face Recognization Training\object_detection_demo-master\data\images\train\IMG20181104155208.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Majid</name>
+		<name>majid</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
