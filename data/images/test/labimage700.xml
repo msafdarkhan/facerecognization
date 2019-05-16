@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>labimage700.jpg</filename>
+	<path>F:\Blind Vision Shirt\Face Recognization Training\object_detection_demo-master\data\images\test\labimage700.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>majid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>356</ymin>
+			<xmax>448</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

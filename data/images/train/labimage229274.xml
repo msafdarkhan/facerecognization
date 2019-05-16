@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Safdar</folder>
+	<filename>labimage229274.jpg</filename>
+	<path>E:\Safdar\labimage229274.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safdar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>351</ymin>
+			<xmax>437</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>

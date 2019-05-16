@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Safdar</folder>
+	<filename>IMG_20190312_131446476127.jpg</filename>
+	<path>E:\Safdar\IMG_20190312_131446476127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safdar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>107</ymin>
+			<xmax>246</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

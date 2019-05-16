@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Instagram</folder>
+	<filename>IMG_20190406_001139_022.jpg</filename>
+	<path>E:\Blind Vision Shirt\my data\Instagram\IMG_20190406_001139_022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bilal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>305</ymin>
+			<xmax>356</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>
